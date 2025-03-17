@@ -1,0 +1,1 @@
+enum SocialMedia { google, apple }
